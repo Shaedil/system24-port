@@ -214,6 +214,10 @@ body {
   .container_c8ffbb {
     overflow: visible !important;
   }
+  .privateChannels__35e86 {
+    min-height: 0px;
+    min-width: 0px;
+  }
   .container__2637a::after {
     content: "server";
   }
