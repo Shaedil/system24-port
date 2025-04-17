@@ -523,3 +523,8 @@ div.experimentWrapper__1405b:nth-last-of-type(1) {
 .sidebarList_c48ade {
   margin-bottom: 0 !important;
 }
+[class^='mask_'] > rect,
+[class^='mask_'] > circle,
+[class^='mask_'] > svg {
+  display: block;
+}
