@@ -97,7 +97,6 @@ body {
 /* Color Options */
 :root {
   --colors: on; /* on for custom colors, off for discord default colors */
-
   /* Text Colors */
   --text-0: var(--bg-4); /* text on colored elements */
   --text-1: oklch(90% 0 0); /* other normally white text */

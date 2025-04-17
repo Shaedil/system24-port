@@ -210,7 +210,6 @@ body {
 .channelTextArea__74017 {
   border: 0px !important;
 }
-
 /* uppercase channel category and role category */
 .membersGroup_c8ffbb span:nth-of-type(2),
 .name__29444 div {
@@ -517,4 +516,10 @@ div.experimentWrapper__1405b:nth-last-of-type(1) {
 /* stream quality button group borders for resolution and frame rate */
 .group__3d4a0, .item__3d4a0 {
   border-color: var(--border-light) !important;
+}
+.content_f75fb0 > .membersWrap_c8ffbb {
+  overflow: visible !important;
+}
+.sidebarList_c48ade {
+  margin-bottom: 0 !important;
 }
