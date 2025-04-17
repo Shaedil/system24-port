@@ -517,3 +517,8 @@ div.experimentWrapper__1405b:nth-last-of-type(1) {
 .group__3d4a0, .item__3d4a0 {
   border-color: var(--border-light) !important;
 }
+[class^='mask_'] > rect,
+[class^='mask_'] > circle,
+[class^='mask_'] > svg {
+  display: block;
+}
