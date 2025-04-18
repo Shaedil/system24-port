@@ -9,6 +9,8 @@
 @import url('https://shaedil.github.io/midnight.css');
 /* gets rid of all rounded corners. remove if you want rounded corners.*/
 @import url('https://refact0r.github.io/system24/src/unrounding.css'); 
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.cdnfonts.com/css/asciid');
 
 body {
   /* Font, change to '' for default discord font */
