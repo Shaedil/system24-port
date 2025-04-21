@@ -1,14 +1,12 @@
-# system24-port (WIP)
+# system24-port (DEPRECATED)
 
-A WIP fan-made system24 port for Discord's new UI. 
+The original system24 is now undergoing a rewrite, rendering this port obsolete.
 
-Aims to recreate system24 faithfully but with Refact0r's midnight theme variables and imports.
+Please start using the new port located [here](https://github.com/refact0r/system24).
+
+This is a temporary port of the original system24 theme for Discord's new UI. 
 
 Uses [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim/tree/master) theme.
 
 ![screenshot of Refact0r's server](/demo_1.png)
 ![screenshot of friends list](/demo_2.png)
-
-Please let me know if there are any missing/broken styles.
-
-Contact me via discord: @Halides
